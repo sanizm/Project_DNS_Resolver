@@ -1,6 +1,9 @@
 # DNS Resolver
 A DNS resolver that involves building a query sending it and parsing the response. The main goal of this project is to show the route that a DNS request when requested takes from root servers to various Name servers and finally to dedicated authoritative servers that contain answers for the query. The interaction is made in the form of a command-line UI where user inserts various commands to interact.
 
+# DNS Resolver implementation
+https://user-images.githubusercontent.com/75959959/159202265-a0ec4655-2ee8-4f17-b822-6ff62e3b205f.mp4
+
 # Commands Used
  ## `server a.b.c.d`
 writing the IP address or name of the server to which the user want to send request for a query.
